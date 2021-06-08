@@ -15,5 +15,4 @@
     <img src="./icons/matlab_icon.svg" alt="matlab" width="40" height="40"/>
   </p>
   
-Skills 💪🏽 : TeamWork | Leadership capacity | Organized | Learn and Improve
 
