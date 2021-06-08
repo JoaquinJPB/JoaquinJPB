@@ -8,7 +8,6 @@
     <img src="./icons/python_icon.svg" alt="python" width="50" height="50"/>
     <img src="./icons/matlab_icon.svg" alt="matlab" width="50" height="50"/>
     <img src="./icons/c_icon.svg" alt="matlab" width="50" height="50"/>
-    <img src="./icons/cplusplus_icon.svg" alt="matlab" width="50" height="50"/>
     <img src="./icons/php_icon.svg" alt="php" width="50" height="50"/>
     </br>
     <img src="./icons/html_icon.svg" alt="html" width="50" height="50"/>
