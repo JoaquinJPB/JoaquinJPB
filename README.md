@@ -6,6 +6,7 @@
 
   <p> 
     <img src="./icons/java_icon.svg" alt="java" width="40" height="40"/>
+    <img src="./icons/python_icon.svg" alt="python" width="40" height="40"/>
     <img src="./icons/html_icon.svg" alt="html" width="40" height="40"/>
     <img src="./icons/css_icon.svg" alt="css" width="40" height="40"/>
     <img src="./icons/javascript_icon.svg" alt="javascript" width="40" height="40"/>
