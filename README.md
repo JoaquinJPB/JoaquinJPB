@@ -21,5 +21,4 @@
     <img src="./icons/mysql_icon.svg" alt="mysql" width="50" height="50"/>
     <img src="./icons/oracle_icon.svg" alt="oracle" width="50" height="50"/>
   </p>
-###
 ---
