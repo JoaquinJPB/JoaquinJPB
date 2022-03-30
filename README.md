@@ -1,7 +1,12 @@
 <img align='right' src="https://user-images.githubusercontent.com/72035330/160853898-62bf462e-dd41-45d4-8dbf-e26e9dbd08f8.gif" width="430">
 
 <h1 align="left">Hi 👋, I'm Joaquín</h1>
-<h4 align="left">A passionate frontend developer</h3>
+<h3 align="left">A passionate frontend developer</h3>
+
+- 🔭 I’m currently working on **Front-end Projects**
+- 🌱 I’m currently learning **Front-end tools**
+- 💬 Ask me about **React & Angular**
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/joaqu%C3%ADn-javier-pastore-barrios/)
 
 <h2>Some Tools I Use 💻</h2>
 <p align="left">
@@ -23,8 +28,3 @@
 
 [![JoaquinJPB's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinjpb&theme=github_dark)](https://github.com/joaquijpb/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joaquinjpb&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<h2 align="left">Connect with me: 🗣️</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/joaqu%C3%ADn-javier-pastore-barrios/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaquin pastore barrios" height="30" width="40" /></a>
-</p>
