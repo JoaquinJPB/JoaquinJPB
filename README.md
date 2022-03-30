@@ -1,9 +1,7 @@
+<img align='right' src="https://user-images.githubusercontent.com/72035330/160853898-62bf462e-dd41-45d4-8dbf-e26e9dbd08f8.gif" width="430">
+
 <h1 align="left">Hi 👋, I'm Joaquín</h1>
-
-<h3 align="left">A passionate frontend developer</h3>
-
-![1_VMmvImch6VU5pc2VktY1uw](https://user-images.githubusercontent.com/72035330/160852553-7fcdb649-21f2-4ad5-993f-c70a6d7bf1e0.gif)
-
+<h4 align="left">A passionate frontend developer</h3>
 
 <h2>Some Tools I Use 💻</h2>
 <p align="left">
