@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Front-end Projects**
 - 🌱 I’m currently learning **Front-end tools**
 - 💬 Ask me about **React & Angular**
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/joaqu%C3%ADn-javier-pastore-barrios/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/joaqu%C3%ADn-javier-pastore-barrios/) 
 
 <h2>Some Tools I Use 💻</h2>
 <p align="left">
@@ -23,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" /> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+  <img src="https://camo.githubusercontent.com/b781e4e3cb62aea137020cdcffd9bcebc1a28ad24131af05515c3cb4dfc20fe5/68747470733a2f2f69322e77702e636f6d2f7777772e6d656d656e746f746563682e696e2f6173736574732f696d616765732f69636f6e732f657870726573732e706e67" alt="express" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" color="white" />
 </p>
 
