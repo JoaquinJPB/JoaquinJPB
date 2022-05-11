@@ -28,3 +28,6 @@
 </p>
 
 <h2> My Github Stats 📈</h2> 
+
+[![JoaquinJPB's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinjpb&theme=github_dark)](https://github.com/joaquijpb/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joaquinjpb&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
