@@ -1,7 +1,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/72035330/160853898-62bf462e-dd41-45d4-8dbf-e26e9dbd08f8.gif" width="450">
 
 <h1 align="left">Hi 👋, I'm Joaquín</h1>
-<h3 align="left">A passionate frontend developer</h3>
+<h3 align="left">A passionate web developer</h3>
 
 - 🔭 I’m currently working on **Front-end Projects**
 - 🌱 I’m currently learning **Front-end tools**
