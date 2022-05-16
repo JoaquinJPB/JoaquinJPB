@@ -25,6 +25,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40" />
   <img src="https://camo.githubusercontent.com/b781e4e3cb62aea137020cdcffd9bcebc1a28ad24131af05515c3cb4dfc20fe5/68747470733a2f2f69322e77702e636f6d2f7777772e6d656d656e746f746563682e696e2f6173736574732f696d616765732f69636f6e732f657870726573732e706e67" alt="express" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" color="white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" color="white" />
 </p>
 
 <h2> My Github Stats 📈</h2> 
