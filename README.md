@@ -1,32 +1,35 @@
-<h1 align="left">Hi 👋, I'm Joaquín</h1>
-<h3 align="left">A passionate web developer</h3>
+# Hi, I'm Joaquín 👋
 
-- 🔭 I’m currently working on **Front-end Projects**
-- 🌱 I’m currently learning **Front-end tools**
-- 💬 Ask me about **React & Angular**
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/joaqu%C3%ADn-javier-pastore-barrios/) 
+**Backend developer** building APIs and scalable systems with **PHP / Laravel**, **TypeScript** and **AWS**.
+Software engineer from Las Palmas de Gran Canaria 🇮🇨
 
-<h2>Some Tools I Use 💻</h2>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-</p>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-</p>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40" />
-  <img src="https://camo.githubusercontent.com/b781e4e3cb62aea137020cdcffd9bcebc1a28ad24131af05515c3cb4dfc20fe5/68747470733a2f2f69322e77702e636f6d2f7777772e6d656d656e746f746563682e696e2f6173736574732f696d616765732f69636f6e732f657870726573732e706e67" alt="express" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" color="white" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" color="white" />
-</p>
+- 🌲 **Now:** backend developer at [Cesefor](https://www.cesefor.com), working on **Nemus**, a platform for digitalizing forestry operations and timber traceability under the EU Deforestation Regulation (EUDR).
+- 🛒 **Before:** backend for IKEA international markets at BITBOX (Laravel, PHP, AWS, APIs).
+- 🧪 **Before that:** QA engineer at WEEWOO, writing automated tests in Python for mobile apps.
+- 🤖 **On the side:** building new projects with Claude Code. Certified in *Claude Code in Action* (Anthropic).
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/joaquin-pastore/)
 
-<h2> My Github Stats 📈</h2> 
+## Tech stack
 
-[![JoaquinJPB's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinjpb&theme=github_dark)](https://github.com/joaquijpb/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joaquinjpb&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+**Backend**
+
+[![Backend](https://skillicons.dev/icons?i=php,laravel,ts,nodejs,py)](https://skillicons.dev)
+
+**Data & infrastructure**
+
+[![Infra](https://skillicons.dev/icons?i=mysql,postgres,redis,aws,docker,linux)](https://skillicons.dev)
+
+**Tooling**
+
+[![Tooling](https://skillicons.dev/icons?i=git,github,bitbucket,vscode)](https://skillicons.dev)
+
+## Featured project
+
+**[forest-fires-api](https://github.com/JoaquinJPB/forest-fires-api)**: REST API for querying forest fire data from open data sources, with filtering, pagination and nearby-fire geospatial search.
+`TypeScript` · `Fastify` · `Prisma` · `Redis` · `Jest` · `OpenAPI`
+
+## What I care about
+
+- Clean, well-tested APIs that are easy to maintain
+- Systems that scale without drama
+- Shipping fast with AI-assisted development, without giving up code quality
