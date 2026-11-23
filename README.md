@@ -25,8 +25,8 @@ Software engineer from Las Palmas de Gran Canaria 🇮🇨
 
 ## Featured project
 
-**[forest-fires-api](https://github.com/JoaquinJPB/forest-fires-api)**: REST API for querying forest fire data from open data sources, with filtering, pagination and nearby-fire geospatial search.
-`TypeScript` · `Fastify` · `Prisma` · `Redis` · `Jest` · `OpenAPI`
+**[forest-fires-api](https://github.com/JoaquinJPB/forest-fires-api)**: REST API for querying forest fire data from open data sources, with filtering, pagination, caching and nearby-fire geospatial search.
+`TypeScript` · `Fastify` · `Prisma` · `SQLite` · `Jest` · `OpenAPI`
 
 ## What I care about
 
